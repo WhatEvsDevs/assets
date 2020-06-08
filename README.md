@@ -1,6 +1,6 @@
 # assets
 
-> WhatEvsDevs assets
+> Shared assets for WhatEvsDevs projects.
 
 ---
 
